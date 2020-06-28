@@ -1,0 +1,51 @@
+body
+{
+    margin: 0;
+    text-align: center;
+
+}
+h1
+{
+    margin: 0px;
+
+padding: 20px;
+   /* width: 500px;
+    margin-left: 375px;*/
+      font-family: Brush Script MT, Brush Script Std, cursive;
+}
+p
+{
+    margin-top: -30px;
+    padding: 20px;
+}
+.nff1
+{
+    height: 300px;
+    width: 400px;
+}
+.base
+{
+    background-color:#87dfd6;
+   
+}
+
+.Intro
+{
+   background-color: #cff6cf;
+}
+.Myskills
+{
+   background-color: #d8ebb5;
+}
+.snacks
+{
+    background-color: #9dc6a7;
+}
+.getintouch
+{
+    background-color: #649d66;
+}
+.base2
+{
+    background-color: #d4ebd0;
+}
